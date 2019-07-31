@@ -30,4 +30,4 @@ ______________________________________________________
 
 Credits to:      \
 **Fez Zaman** _Wolfram|Alpha: Linguistics Curator_ \
-**Jeremy Stratton Smith** _Wolfram|Alpha: Math Content Developer_ \
+**Jeremy Stratton Smith** _Wolfram|Alpha: Math Content Developer_ 
