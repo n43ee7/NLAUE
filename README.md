@@ -13,16 +13,21 @@ ______________________________________________________
 #### Installation & Importing Script
  \
 Clone the Reposiroty: 
-> $ git clone https://github.com/n43ee7/NLAUE
+```
+$ git clone https://github.com/n43ee7/NLAUE
+```
 Running the Script _Directly in bash_:
-> $ wolframscript -file 'NLAUE.wl' 
- \
+```
+$ wolframscript -file 'NLAUE.wl' 
+```
 Importing it in _Mathematica_:
-> NLAUE = Get["Path to the Script"] \ <
-> NLAUE \ <
+```
+NLAUE = Get["Path to the Script"]
+NLAUE 
+```
 **Execute Each Line by Pressing Shift + Enter in Mathematica IDE**
 ______________________________________________________
 
-Credits to: 
+Credits to:      \
 **Fez Zaman** _Wolfram|Alpha: Linguistics Curator_ \
 **Jeremy Stratton Smith** _Wolfram|Alpha: Math Content Developer_ \
