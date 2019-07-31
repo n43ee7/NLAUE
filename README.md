@@ -9,7 +9,7 @@ ______________________________________________________
  \
 Wolfram Mathematica 10 or later 
 ______________________________________________________
- \
+
 #### Installation & Importing Script
  \
 Clone the Reposiroty: 
@@ -18,8 +18,8 @@ Running the Script _Directly in bash_:
 > $ wolframscript -file 'NLAUE.wl' 
  \
 Importing it in _Mathematica_:
-> NLAUE = Get["Path to the Script"] \ 
-> NLAUE \
+> NLAUE = Get["Path to the Script"] \ <
+> NLAUE \ <
 **Execute Each Line by Pressing Shift + Enter in Mathematica IDE**
 ______________________________________________________
 
