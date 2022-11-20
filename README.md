@@ -1,4 +1,4 @@
-# NLAUE
+# NLAUE (NLP Calculator)
 ## Evaluating Natural Language Arithmetic Expressions 
 
 ______________________________________________________
